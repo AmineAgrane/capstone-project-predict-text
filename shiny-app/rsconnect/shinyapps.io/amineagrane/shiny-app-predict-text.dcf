@@ -1,0 +1,13 @@
+name: shiny-app-predict-text
+title: shiny-app-predict-text
+username:
+account: amineagrane
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3661998
+bundleId: 4243025
+url: https://amineagrane.shinyapps.io/shiny-app-predict-text/
+when: 1613693256.85502
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/.DS_Store
